@@ -1,0 +1,14 @@
+body {
+    background: #a9aff5;
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    min-width: 40em;
+    max-height: 25em;
+    margin-left: 20%;
+    border: 0.1em solid #fff;
+	background-color: #00f;
+}
+
